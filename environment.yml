@@ -8,3 +8,5 @@ dependencies:
   - xarray
   - ipywidgets
   - cartopy
+  - netcdf4  # Add this line
+  - h5netcdf  # Add this line
